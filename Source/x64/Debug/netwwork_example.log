@@ -1,0 +1,333 @@
+﻿  BackGround.cpp
+  Bullet.cpp
+C:\Users\65235\Desktop\ai\network\Source\Bullet.cpp(1,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  Game.cpp
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(82,28): warning C4805: “==”: 在操作中将类型“float”与类型“bool”混合不安全
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(119,39): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(120,54): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(121,58): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(126,40): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(128,55): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(129,59): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(134,38): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(136,53): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(137,57): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(142,39): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(145,54): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(146,58): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(190,34): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(194,73): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(198,51): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(198,76): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(201,25): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(221,26): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(233,53): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(237,47): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(240,27): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(253,52): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(253,77): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(256,46): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(259,26): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(281,49): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(301,52): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(307,122): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(307,90): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(310,90): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(344,42): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(364,39): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(398,36): warning C4805: “!=”: 在操作中将类型“float”与类型“bool”混合不安全
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(408,39): warning C4805: “==”: 在操作中将类型“float”与类型“bool”混合不安全
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(467,31): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(480,31): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(481,31): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(487,31): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(494,31): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(495,31): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(519,64): warning C4805: “==”: 在操作中将类型“float”与类型“bool”混合不安全
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(525,34): warning C4805: “==”: 在操作中将类型“float”与类型“bool”混合不安全
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(565,74): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(566,59): warning C4244: “参数”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(570,71): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(615,38): warning C4805: “==”: 在操作中将类型“float”与类型“bool”混合不安全
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(615,76): warning C4805: “==”: 在操作中将类型“float”与类型“bool”混合不安全
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(626,35): warning C4805: “==”: 在操作中将类型“float”与类型“bool”混合不安全
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(626,71): warning C4805: “==”: 在操作中将类型“float”与类型“bool”混合不安全
+C:\Users\65235\Desktop\ai\network\Source\Game.cpp(629,64): warning C4805: “==”: 在操作中将类型“float”与类型“bool”混合不安全
+  OtherPlayer.cpp
+  main.cpp
+C:\Users\65235\Desktop\ai\network\Source\main.cpp(19,7): warning C4101: “connectionTpe”: 未引用的局部变量
+  Network.cpp
+  NetworkPlayer.cpp
+  Player.cpp
+  ServerNetwork.cpp
+C:\Users\65235\Desktop\ai\network\Source\ServerNetwork.cpp(192,55): warning C4552: ”!=“: 未使用表达式结果
+  正在生成代码...
+BackGround.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::String::String(char const *,class std::locale const &)" (__imp_??0String@sf@@QEAA@PEBDAEBVlocale@std@@@Z)，函数 "public: __cdecl BackGround::BackGround(void)" (??0BackGround@@QEAA@XZ) 中引用了该符号
+Game.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::String::String(char const *,class std::locale const &)" (__imp_??0String@sf@@QEAA@PEBDAEBVlocale@std@@@Z)
+BackGround.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::String::String(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::locale const &)" (__imp_??0String@sf@@QEAA@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBVlocale@3@@Z)，函数 "public: __cdecl BackGround::BackGround(void)" (??0BackGround@@QEAA@XZ) 中引用了该符号
+Game.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::String::String(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::locale const &)" (__imp_??0String@sf@@QEAA@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBVlocale@3@@Z)
+BackGround.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::String::~String(void)" (__imp_??1String@sf@@QEAA@XZ)，函数 "public: __cdecl BackGround::BackGround(void)" (??0BackGround@@QEAA@XZ) 中引用了该符号
+Game.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::String::~String(void)" (__imp_??1String@sf@@QEAA@XZ)
+BackGround.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: static bool __cdecl sf::Keyboard::isKeyPressed(enum sf::Keyboard::Key)" (__imp_?isKeyPressed@Keyboard@sf@@SA_NW4Key@12@@Z)，函数 "private: int __cdecl BackGround::procesEvents(void)" (?procesEvents@BackGround@@AEAAHXZ) 中引用了该符号
+Game.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: static bool __cdecl sf::Keyboard::isKeyPressed(enum sf::Keyboard::Key)" (__imp_?isKeyPressed@Keyboard@sf@@SA_NW4Key@12@@Z)
+BackGround.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::VideoMode::VideoMode(unsigned int,unsigned int,unsigned int)" (__imp_??0VideoMode@sf@@QEAA@III@Z)，函数 "public: __cdecl BackGround::BackGround(void)" (??0BackGround@@QEAA@XZ) 中引用了该符号
+Game.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::VideoMode::VideoMode(unsigned int,unsigned int,unsigned int)" (__imp_??0VideoMode@sf@@QEAA@III@Z)
+BackGround.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl sf::Window::create(class sf::VideoMode,class sf::String const &,unsigned int,struct sf::ContextSettings const &)" (__imp_?create@Window@sf@@QEAAXVVideoMode@2@AEBVString@2@IAEBUContextSettings@2@@Z)，函数 "public: __cdecl BackGround::BackGround(void)" (??0BackGround@@QEAA@XZ) 中引用了该符号
+Game.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl sf::Window::create(class sf::VideoMode,class sf::String const &,unsigned int,struct sf::ContextSettings const &)" (__imp_?create@Window@sf@@QEAAXVVideoMode@2@AEBVString@2@IAEBUContextSettings@2@@Z)
+BackGround.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl sf::Window::close(void)" (__imp_?close@Window@sf@@QEAAXXZ)，函数 "private: int __cdecl BackGround::procesEvents(void)" (?procesEvents@BackGround@@AEAAHXZ) 中引用了该符号
+Game.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl sf::Window::close(void)" (__imp_?close@Window@sf@@QEAAXXZ)
+BackGround.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: bool __cdecl sf::Window::isOpen(void)const " (__imp_?isOpen@Window@sf@@QEBA_NXZ)，函数 "public: int __cdecl BackGround::run(void)" (?run@BackGround@@QEAAHXZ) 中引用了该符号
+Game.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: bool __cdecl sf::Window::isOpen(void)const " (__imp_?isOpen@Window@sf@@QEBA_NXZ)
+BackGround.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: bool __cdecl sf::Window::pollEvent(class sf::Event &)" (__imp_?pollEvent@Window@sf@@QEAA_NAEAVEvent@2@@Z)，函数 "private: int __cdecl BackGround::procesEvents(void)" (?procesEvents@BackGround@@AEAAHXZ) 中引用了该符号
+Game.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: bool __cdecl sf::Window::pollEvent(class sf::Event &)" (__imp_?pollEvent@Window@sf@@QEAA_NAEAVEvent@2@@Z)
+BackGround.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl sf::Window::setFramerateLimit(unsigned int)" (__imp_?setFramerateLimit@Window@sf@@QEAAXI@Z)，函数 "public: __cdecl BackGround::BackGround(void)" (??0BackGround@@QEAA@XZ) 中引用了该符号
+Game.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl sf::Window::setFramerateLimit(unsigned int)" (__imp_?setFramerateLimit@Window@sf@@QEAAXI@Z)
+BackGround.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: bool __cdecl sf::Window::hasFocus(void)const " (__imp_?hasFocus@Window@sf@@QEBA_NXZ)，函数 "private: int __cdecl BackGround::procesEvents(void)" (?procesEvents@BackGround@@AEAAHXZ) 中引用了该符号
+Game.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: bool __cdecl sf::Window::hasFocus(void)const " (__imp_?hasFocus@Window@sf@@QEBA_NXZ)
+BackGround.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl sf::Window::display(void)" (__imp_?display@Window@sf@@QEAAXXZ)，函数 "private: void __cdecl BackGround::render(void)" (?render@BackGround@@AEAAXXZ) 中引用了该符号
+Game.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl sf::Window::display(void)" (__imp_?display@Window@sf@@QEAAXXZ)
+BackGround.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(class sf::Vector2<float> const &)" (__imp_?setPosition@Transformable@sf@@QEAAXAEBV?$Vector2@M@2@@Z)，函数 "public: __cdecl BackGround::BackGround(void)" (??0BackGround@@QEAA@XZ) 中引用了该符号
+Game.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(class sf::Vector2<float> const &)" (__imp_?setPosition@Transformable@sf@@QEAAXAEBV?$Vector2@M@2@@Z)
+Network.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(class sf::Vector2<float> const &)" (__imp_?setPosition@Transformable@sf@@QEAAXAEBV?$Vector2@M@2@@Z)
+BackGround.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl sf::Transformable::setOrigin(float,float)" (__imp_?setOrigin@Transformable@sf@@QEAAXMM@Z)，函数 "public: __cdecl BackGround::BackGround(void)" (??0BackGround@@QEAA@XZ) 中引用了该符号
+Game.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl sf::Transformable::setOrigin(float,float)" (__imp_?setOrigin@Transformable@sf@@QEAAXMM@Z)
+Player.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::Texture::Texture(void)" (__imp_??0Texture@sf@@QEAA@XZ)
+BackGround.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::Texture::Texture(void)" (__imp_??0Texture@sf@@QEAA@XZ)
+Bullet.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::Texture::Texture(void)" (__imp_??0Texture@sf@@QEAA@XZ)
+Game.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::Texture::Texture(void)" (__imp_??0Texture@sf@@QEAA@XZ)
+OtherPlayer.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::Texture::Texture(void)" (__imp_??0Texture@sf@@QEAA@XZ)
+Network.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::Texture::~Texture(void)" (__imp_??1Texture@sf@@QEAA@XZ)
+Player.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::Texture::~Texture(void)" (__imp_??1Texture@sf@@QEAA@XZ)
+BackGround.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::Texture::~Texture(void)" (__imp_??1Texture@sf@@QEAA@XZ)
+Bullet.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::Texture::~Texture(void)" (__imp_??1Texture@sf@@QEAA@XZ)
+Game.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::Texture::~Texture(void)" (__imp_??1Texture@sf@@QEAA@XZ)
+OtherPlayer.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::Texture::~Texture(void)" (__imp_??1Texture@sf@@QEAA@XZ)
+Player.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: bool __cdecl sf::Texture::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class sf::Rect<int> const &)" (__imp_?loadFromFile@Texture@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$Rect@H@2@@Z)
+BackGround.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: bool __cdecl sf::Texture::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class sf::Rect<int> const &)" (__imp_?loadFromFile@Texture@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$Rect@H@2@@Z)
+Bullet.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: bool __cdecl sf::Texture::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class sf::Rect<int> const &)" (__imp_?loadFromFile@Texture@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$Rect@H@2@@Z)
+Game.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: bool __cdecl sf::Texture::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class sf::Rect<int> const &)" (__imp_?loadFromFile@Texture@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$Rect@H@2@@Z)
+OtherPlayer.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: bool __cdecl sf::Texture::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class sf::Rect<int> const &)" (__imp_?loadFromFile@Texture@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$Rect@H@2@@Z)
+BackGround.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::Font::Font(void)" (__imp_??0Font@sf@@QEAA@XZ)，函数 "public: __cdecl BackGround::BackGround(void)" (??0BackGround@@QEAA@XZ) 中引用了该符号
+Game.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::Font::Font(void)" (__imp_??0Font@sf@@QEAA@XZ)
+BackGround.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::Font::~Font(void)" (__imp_??1Font@sf@@QEAA@XZ)，函数 "int `public: __cdecl BackGround::BackGround(void)'::`1'::dtor$3" (?dtor$3@?0???0BackGround@@QEAA@XZ@4HA) 中引用了该符号
+Game.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::Font::~Font(void)" (__imp_??1Font@sf@@QEAA@XZ)
+BackGround.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: bool __cdecl sf::Font::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (__imp_?loadFromFile@Font@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)，函数 "public: __cdecl BackGround::BackGround(void)" (??0BackGround@@QEAA@XZ) 中引用了该符号
+Game.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: bool __cdecl sf::Font::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (__imp_?loadFromFile@Font@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+BackGround.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: class sf::Vector2<float> const & __cdecl sf::View::getCenter(void)const " (__imp_?getCenter@View@sf@@QEBAAEBV?$Vector2@M@2@XZ)，函数 "public: __cdecl BackGround::BackGround(void)" (??0BackGround@@QEAA@XZ) 中引用了该符号
+BackGround.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: class sf::View const & __cdecl sf::RenderTarget::getView(void)const " (__imp_?getView@RenderTarget@sf@@QEBAAEBVView@2@XZ)，函数 "public: __cdecl BackGround::BackGround(void)" (??0BackGround@@QEAA@XZ) 中引用了该符号
+BackGround.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QEAAXAEBVDrawable@2@AEBVRenderStates@2@@Z)，函数 "private: void __cdecl BackGround::render(void)" (?render@BackGround@@AEAAXXZ) 中引用了该符号
+Game.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QEAAXAEBVDrawable@2@AEBVRenderStates@2@@Z)
+BackGround.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::RenderWindow::RenderWindow(void)" (__imp_??0RenderWindow@sf@@QEAA@XZ)，函数 "public: __cdecl BackGround::BackGround(void)" (??0BackGround@@QEAA@XZ) 中引用了该符号
+Game.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::RenderWindow::RenderWindow(void)" (__imp_??0RenderWindow@sf@@QEAA@XZ)
+BackGround.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: virtual __cdecl sf::RenderWindow::~RenderWindow(void)" (__imp_??1RenderWindow@sf@@UEAA@XZ)，函数 "int `public: __cdecl BackGround::BackGround(void)'::`1'::dtor$0" (?dtor$0@?0???0BackGround@@QEAA@XZ@4HA) 中引用了该符号
+Game.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: virtual __cdecl sf::RenderWindow::~RenderWindow(void)" (__imp_??1RenderWindow@sf@@UEAA@XZ)
+Player.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QEAA@XZ)
+BackGround.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QEAA@XZ)
+Bullet.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QEAA@XZ)
+Game.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QEAA@XZ)
+OtherPlayer.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QEAA@XZ)
+Player.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QEAAXAEBVTexture@2@_N@Z)
+BackGround.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QEAAXAEBVTexture@2@_N@Z)
+Bullet.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QEAAXAEBVTexture@2@_N@Z)
+Game.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QEAAXAEBVTexture@2@_N@Z)
+OtherPlayer.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QEAAXAEBVTexture@2@_N@Z)
+Network.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)
+Player.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)
+BackGround.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)
+Bullet.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)
+Game.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)
+OtherPlayer.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)
+BackGround.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::Text::Text(void)" (__imp_??0Text@sf@@QEAA@XZ)，函数 "public: __cdecl BackGround::BackGround(void)" (??0BackGround@@QEAA@XZ) 中引用了该符号
+Game.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::Text::Text(void)" (__imp_??0Text@sf@@QEAA@XZ)
+BackGround.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl sf::Text::setString(class sf::String const &)" (__imp_?setString@Text@sf@@QEAAXAEBVString@2@@Z)，函数 "public: __cdecl BackGround::BackGround(void)" (??0BackGround@@QEAA@XZ) 中引用了该符号
+Game.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl sf::Text::setString(class sf::String const &)" (__imp_?setString@Text@sf@@QEAAXAEBVString@2@@Z)
+BackGround.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl sf::Text::setFont(class sf::Font const &)" (__imp_?setFont@Text@sf@@QEAAXAEBVFont@2@@Z)，函数 "public: __cdecl BackGround::BackGround(void)" (??0BackGround@@QEAA@XZ) 中引用了该符号
+Game.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl sf::Text::setFont(class sf::Font const &)" (__imp_?setFont@Text@sf@@QEAAXAEBVFont@2@@Z)
+BackGround.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl sf::Text::setCharacterSize(unsigned int)" (__imp_?setCharacterSize@Text@sf@@QEAAXI@Z)，函数 "public: __cdecl BackGround::BackGround(void)" (??0BackGround@@QEAA@XZ) 中引用了该符号
+Game.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl sf::Text::setCharacterSize(unsigned int)" (__imp_?setCharacterSize@Text@sf@@QEAAXI@Z)
+BackGround.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl sf::Text::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Text@sf@@QEAAXAEBVColor@2@@Z)，函数 "public: __cdecl BackGround::BackGround(void)" (??0BackGround@@QEAA@XZ) 中引用了该符号
+Game.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl sf::Text::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Text@sf@@QEAAXAEBVColor@2@@Z)
+BackGround.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: class sf::Rect<float> __cdecl sf::Text::getLocalBounds(void)const " (__imp_?getLocalBounds@Text@sf@@QEBA?AV?$Rect@M@2@XZ)，函数 "public: __cdecl BackGround::BackGround(void)" (??0BackGround@@QEAA@XZ) 中引用了该符号
+Game.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: class sf::Rect<float> __cdecl sf::Text::getLocalBounds(void)const " (__imp_?getLocalBounds@Text@sf@@QEBA?AV?$Rect@M@2@XZ)
+BackGround.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: virtual __cdecl sf::Text::~Text(void)" (__imp_??1Text@sf@@UEAA@XZ)，函数 "int `public: __cdecl BackGround::BackGround(void)'::`1'::dtor$4" (?dtor$4@?0???0BackGround@@QEAA@XZ@4HA) 中引用了该符号
+Game.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: virtual __cdecl sf::Text::~Text(void)" (__imp_??1Text@sf@@UEAA@XZ)
+BackGround.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B)，函数 "private: void __cdecl BackGround::render(void)" (?render@BackGround@@AEAAXXZ) 中引用了该符号
+Game.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B)
+BackGround.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: static class sf::Color const sf::Color::White" (__imp_?White@Color@sf@@2V12@B)，函数 "public: __cdecl BackGround::BackGround(void)" (??0BackGround@@QEAA@XZ) 中引用了该符号
+Player.obj : error LNK2019: 无法解析的外部符号 "private: virtual void __cdecl sf::Sprite::draw(class sf::RenderTarget &,class sf::RenderStates)const " (?draw@Sprite@sf@@EEBAXAEAVRenderTarget@2@VRenderStates@2@@Z)，函数 "private: __cdecl std::bad_alloc::bad_alloc(char const * const)" (??0bad_alloc@std@@AEAA@QEBD@Z) 中引用了该符号
+Bullet.obj : error LNK2001: 无法解析的外部符号 "private: virtual void __cdecl sf::Sprite::draw(class sf::RenderTarget &,class sf::RenderStates)const " (?draw@Sprite@sf@@EEBAXAEAVRenderTarget@2@VRenderStates@2@@Z)
+Game.obj : error LNK2001: 无法解析的外部符号 "private: virtual void __cdecl sf::Sprite::draw(class sf::RenderTarget &,class sf::RenderStates)const " (?draw@Sprite@sf@@EEBAXAEAVRenderTarget@2@VRenderStates@2@@Z)
+OtherPlayer.obj : error LNK2001: 无法解析的外部符号 "private: virtual void __cdecl sf::Sprite::draw(class sf::RenderTarget &,class sf::RenderStates)const " (?draw@Sprite@sf@@EEBAXAEAVRenderTarget@2@VRenderStates@2@@Z)
+Network.obj : error LNK2001: 无法解析的外部符号 "private: virtual void __cdecl sf::Sprite::draw(class sf::RenderTarget &,class sf::RenderStates)const " (?draw@Sprite@sf@@EEBAXAEAVRenderTarget@2@VRenderStates@2@@Z)
+Game.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::Time::Time(void)" (__imp_??0Time@sf@@QEAA@XZ)，函数 "public: __cdecl Game::Game(void)" (??0Game@@QEAA@XZ) 中引用了该符号
+NetworkPlayer.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::Time::Time(void)" (__imp_??0Time@sf@@QEAA@XZ)
+Game.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) class sf::Time __cdecl sf::seconds(float)" (__imp_?seconds@sf@@YA?AVTime@1@M@Z)，函数 "void __cdecl `dynamic initializer for 'private: static class sf::Time const Game::timePerFrame''(void)" (??__E?timePerFrame@Game@@0VTime@sf@@B@@YAXXZ) 中引用了该符号
+Network.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) class sf::Time __cdecl sf::seconds(float)" (__imp_?seconds@sf@@YA?AVTime@1@M@Z)
+NetworkPlayer.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) class sf::Time __cdecl sf::seconds(float)" (__imp_?seconds@sf@@YA?AVTime@1@M@Z)
+Game.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) bool __cdecl sf::operator>=(class sf::Time,class sf::Time)" (__imp_??Psf@@YA_NVTime@0@0@Z)，函数 "private: void __cdecl Game::update(void)" (?update@Game@@AEAAXXZ) 中引用了该符号
+Game.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) class sf::Time & __cdecl sf::operator+=(class sf::Time &,class sf::Time)" (__imp_??Ysf@@YAAEAVTime@0@AEAV10@V10@@Z)，函数 "private: void __cdecl Game::update(void)" (?update@Game@@AEAAXXZ) 中引用了该符号
+Game.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::Clock::Clock(void)" (__imp_??0Clock@sf@@QEAA@XZ)，函数 "public: __cdecl Game::Game(void)" (??0Game@@QEAA@XZ) 中引用了该符号
+Network.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::Clock::Clock(void)" (__imp_??0Clock@sf@@QEAA@XZ)
+ServerNetwork.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::Clock::Clock(void)" (__imp_??0Clock@sf@@QEAA@XZ)
+Game.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: class sf::Time __cdecl sf::Clock::restart(void)" (__imp_?restart@Clock@sf@@QEAA?AVTime@2@XZ)，函数 "private: void __cdecl Game::update(void)" (?update@Game@@AEAAXXZ) 中引用了该符号
+Game.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QEAAXMM@Z)，函数 "private: void __cdecl Game::initialiseText(void)" (?initialiseText@Game@@AEAAXXZ) 中引用了该符号
+Game.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl sf::Transformable::setScale(class sf::Vector2<float> const &)" (__imp_?setScale@Transformable@sf@@QEAAXAEBV?$Vector2@M@2@@Z)，函数 "private: void __cdecl Game::renderPlayer(class Player)" (?renderPlayer@Game@@AEAAXVPlayer@@@Z) 中引用了该符号
+Game.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: class sf::Vector2<float> const & __cdecl sf::Transformable::getPosition(void)const " (__imp_?getPosition@Transformable@sf@@QEBAAEBV?$Vector2@M@2@XZ)，函数 "private: void __cdecl Game::boudary_move(class sf::Vector2<float>,class Player *)" (?boudary_move@Game@@AEAAXV?$Vector2@M@sf@@PEAVPlayer@@@Z) 中引用了该符号
+Network.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: class sf::Vector2<float> const & __cdecl sf::Transformable::getPosition(void)const " (__imp_?getPosition@Transformable@sf@@QEBAAEBV?$Vector2@M@2@XZ)
+Game.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl sf::Transformable::move(float,float)" (__imp_?move@Transformable@sf@@QEAAXMM@Z)，函数 "private: void __cdecl Game::boudary_move(class sf::Vector2<float>,class Player *)" (?boudary_move@Game@@AEAAXV?$Vector2@M@sf@@PEAVPlayer@@@Z) 中引用了该符号
+Game.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::Color::Color(unsigned char,unsigned char,unsigned char,unsigned char)" (__imp_??0Color@sf@@QEAA@EEEE@Z)，函数 "private: void __cdecl Game::render(void)" (?render@Game@@AEAAXXZ) 中引用了该符号
+Game.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl sf::Shape::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Shape@sf@@QEAAXAEBVColor@2@@Z)，函数 "private: void __cdecl Game::renderPlayer(class Player)" (?renderPlayer@Game@@AEAAXVPlayer@@@Z) 中引用了该符号
+Game.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::Texture::Texture(class sf::Texture const &)" (__imp_??0Texture@sf@@QEAA@AEBV01@@Z)，函数 "public: __cdecl Bullet::Bullet(class Bullet const &)" (??0Bullet@@QEAA@AEBV0@@Z) 中引用了该符号
+Network.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::Texture::Texture(class sf::Texture const &)" (__imp_??0Texture@sf@@QEAA@AEBV01@@Z)
+Game.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: class sf::Texture & __cdecl sf::Texture::operator=(class sf::Texture const &)" (__imp_??4Texture@sf@@QEAAAEAV01@AEBV01@@Z)，函数 "public: class Bullet & __cdecl Bullet::operator=(class Bullet const &)" (??4Bullet@@QEAAAEAV0@AEBV0@@Z) 中引用了该符号
+Game.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::RectangleShape::RectangleShape(class sf::Vector2<float> const &)" (__imp_??0RectangleShape@sf@@QEAA@AEBV?$Vector2@M@1@@Z)，函数 "public: __cdecl Game::Game(void)" (??0Game@@QEAA@XZ) 中引用了该符号
+Game.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl sf::RectangleShape::setSize(class sf::Vector2<float> const &)" (__imp_?setSize@RectangleShape@sf@@QEAAXAEBV?$Vector2@M@2@@Z)，函数 "private: void __cdecl Game::renderPlayer(class Player)" (?renderPlayer@Game@@AEAAXVPlayer@@@Z) 中引用了该符号
+Game.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: virtual __cdecl sf::RectangleShape::~RectangleShape(void)" (__imp_??1RectangleShape@sf@@UEAA@XZ)，函数 "int `public: __cdecl Game::Game(void)'::`1'::dtor$13" (?dtor$13@?0???0Game@@QEAA@XZ@4HA) 中引用了该符号
+Game.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl sf::RenderTarget::clear(class sf::Color const &)" (__imp_?clear@RenderTarget@sf@@QEAAXAEBVColor@2@@Z)，函数 "private: void __cdecl Game::render(void)" (?render@Game@@AEAAXXZ) 中引用了该符号
+Game.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: class sf::Rect<float> __cdecl sf::Sprite::getGlobalBounds(void)const " (__imp_?getGlobalBounds@Sprite@sf@@QEBA?AV?$Rect@M@2@XZ)，函数 "private: void __cdecl Game::summonBullets(class Player *)" (?summonBullets@Game@@AEAAXPEAVPlayer@@@Z) 中引用了该符号
+Game.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(class sf::Sprite const &)" (__imp_??0Sprite@sf@@QEAA@AEBV01@@Z)，函数 "public: __cdecl Bullet::Bullet(class Bullet const &)" (??0Bullet@@QEAA@AEBV0@@Z) 中引用了该符号
+Network.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(class sf::Sprite const &)" (__imp_??0Sprite@sf@@QEAA@AEBV01@@Z)
+Game.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: class sf::Sprite & __cdecl sf::Sprite::operator=(class sf::Sprite const &)" (__imp_??4Sprite@sf@@QEAAAEAV01@AEBV01@@Z)，函数 "public: class Bullet & __cdecl Bullet::operator=(class Bullet const &)" (??4Bullet@@QEAAAEAV0@AEBV0@@Z) 中引用了该符号
+Game.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl sf::Socket::setBlocking(bool)" (__imp_?setBlocking@Socket@sf@@QEAAX_N@Z)，函数 "public: __cdecl Game::Game(void)" (??0Game@@QEAA@XZ) 中引用了该符号
+Network.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl sf::Socket::setBlocking(bool)" (__imp_?setBlocking@Socket@sf@@QEAAX_N@Z)
+Game.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::TcpSocket::TcpSocket(void)" (__imp_??0TcpSocket@sf@@QEAA@XZ)，函数 "public: __cdecl Game::Game(void)" (??0Game@@QEAA@XZ) 中引用了该符号
+Network.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::TcpSocket::TcpSocket(void)" (__imp_??0TcpSocket@sf@@QEAA@XZ)
+ServerNetwork.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::TcpSocket::TcpSocket(void)" (__imp_??0TcpSocket@sf@@QEAA@XZ)
+Game.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: virtual __cdecl sf::TcpSocket::~TcpSocket(void)" (__imp_??1TcpSocket@sf@@UEAA@XZ)，函数 "int `public: __cdecl Game::Game(void)'::`1'::dtor$1" (?dtor$1@?0???0Game@@QEAA@XZ@4HA) 中引用了该符号
+Network.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: virtual __cdecl sf::TcpSocket::~TcpSocket(void)" (__imp_??1TcpSocket@sf@@UEAA@XZ)
+ServerNetwork.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: virtual __cdecl sf::TcpSocket::~TcpSocket(void)" (__imp_??1TcpSocket@sf@@UEAA@XZ)
+Game.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::IpAddress::IpAddress(void)" (__imp_??0IpAddress@sf@@QEAA@XZ)，函数 "public: __cdecl Game::Game(void)" (??0Game@@QEAA@XZ) 中引用了该符号
+ServerNetwork.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::IpAddress::IpAddress(void)" (__imp_??0IpAddress@sf@@QEAA@XZ)
+Game.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::IpAddress::IpAddress(char const *)" (__imp_??0IpAddress@sf@@QEAA@PEBD@Z)，函数 "public: __cdecl Game::Game(void)" (??0Game@@QEAA@XZ) 中引用了该符号
+Game.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: static class sf::Time const sf::Time::Zero" (__imp_?Zero@Time@sf@@2V12@B)，函数 "public: __cdecl Game::Game(void)" (??0Game@@QEAA@XZ) 中引用了该符号
+ServerNetwork.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: static class sf::Time const sf::Time::Zero" (__imp_?Zero@Time@sf@@2V12@B)
+Game.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: static class sf::Color const sf::Color::Black" (__imp_?Black@Color@sf@@2V12@B)，函数 "private: void __cdecl Game::initialiseText(void)" (?initialiseText@Game@@AEAAXXZ) 中引用了该符号
+Game.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: static class sf::Color const sf::Color::Red" (__imp_?Red@Color@sf@@2V12@B)，函数 "private: void __cdecl Game::renderPlayer(class Player)" (?renderPlayer@Game@@AEAAXVPlayer@@@Z) 中引用了该符号
+Game.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: static class sf::Color const sf::Color::Green" (__imp_?Green@Color@sf@@2V12@B)，函数 "private: void __cdecl Game::renderPlayer(class Player)" (?renderPlayer@Game@@AEAAXVPlayer@@@Z) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::SocketSelector::~SocketSelector(void)" (__imp_??1SocketSelector@sf@@QEAA@XZ)，函数 "public: __cdecl ServerNetwork::~ServerNetwork(void)" (??1ServerNetwork@@QEAA@XZ) 中引用了该符号
+ServerNetwork.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::SocketSelector::~SocketSelector(void)" (__imp_??1SocketSelector@sf@@QEAA@XZ)
+main.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: virtual __cdecl sf::TcpListener::~TcpListener(void)" (__imp_??1TcpListener@sf@@UEAA@XZ)，函数 "public: __cdecl ServerNetwork::~ServerNetwork(void)" (??1ServerNetwork@@QEAA@XZ) 中引用了该符号
+ServerNetwork.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: virtual __cdecl sf::TcpListener::~TcpListener(void)" (__imp_??1TcpListener@sf@@UEAA@XZ)
+Network.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) class sf::Time __cdecl sf::milliseconds(int)" (__imp_?milliseconds@sf@@YA?AVTime@1@H@Z)，函数 "public: int __cdecl Network::receive(class std::vector<class std::unique_ptr<class Player,struct std::default_delete<class Player> >,class std::allocator<class std::unique_ptr<class Player,struct std::default_delete<class Player> > > > &,class Player *)" (?receive@Network@@QEAAHAEAV?$vector@V?$unique_ptr@VPlayer@@U?$default_delete@VPlayer@@@std@@@std@@V?$allocator@V?$unique_ptr@VPlayer@@U?$default_delete@VPlayer@@@std@@@std@@@2@@std@@PEAVPlayer@@@Z) 中引用了该符号
+Network.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) void __cdecl sf::sleep(class sf::Time)" (__imp_?sleep@sf@@YAXVTime@1@@Z)，函数 "public: int __cdecl Network::receive(class std::vector<class std::unique_ptr<class Player,struct std::default_delete<class Player> >,class std::allocator<class std::unique_ptr<class Player,struct std::default_delete<class Player> > > > &,class Player *)" (?receive@Network@@QEAAHAEAV?$vector@V?$unique_ptr@VPlayer@@U?$default_delete@VPlayer@@@std@@@std@@V?$allocator@V?$unique_ptr@VPlayer@@U?$default_delete@VPlayer@@@std@@@std@@@2@@std@@PEAVPlayer@@@Z) 中引用了该符号
+Network.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: enum sf::Socket::Status __cdecl sf::TcpSocket::connect(class sf::IpAddress const &,unsigned short,class sf::Time)" (__imp_?connect@TcpSocket@sf@@QEAA?AW4Status@Socket@2@AEBVIpAddress@2@GVTime@2@@Z)，函数 "public: __cdecl Network::Network(class sf::IpAddress &,unsigned short &)" (??0Network@@QEAA@AEAVIpAddress@sf@@AEAG@Z) 中引用了该符号
+Network.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: enum sf::Socket::Status __cdecl sf::TcpSocket::send(class sf::Packet &)" (__imp_?send@TcpSocket@sf@@QEAA?AW4Status@Socket@2@AEAVPacket@2@@Z)，函数 "public: void __cdecl Network::disconnect(class Player *)" (?disconnect@Network@@QEAAXPEAVPlayer@@@Z) 中引用了该符号
+ServerNetwork.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: enum sf::Socket::Status __cdecl sf::TcpSocket::send(class sf::Packet &)" (__imp_?send@TcpSocket@sf@@QEAA?AW4Status@Socket@2@AEAVPacket@2@@Z)
+Network.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: enum sf::Socket::Status __cdecl sf::TcpSocket::receive(class sf::Packet &)" (__imp_?receive@TcpSocket@sf@@QEAA?AW4Status@Socket@2@AEAVPacket@2@@Z)，函数 "public: int __cdecl Network::receive(class std::vector<class std::unique_ptr<class Player,struct std::default_delete<class Player> >,class std::allocator<class std::unique_ptr<class Player,struct std::default_delete<class Player> > > > &,class Player *)" (?receive@Network@@QEAAHAEAV?$vector@V?$unique_ptr@VPlayer@@U?$default_delete@VPlayer@@@std@@@std@@V?$allocator@V?$unique_ptr@VPlayer@@U?$default_delete@VPlayer@@@std@@@std@@@2@@std@@PEAVPlayer@@@Z) 中引用了该符号
+ServerNetwork.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: enum sf::Socket::Status __cdecl sf::TcpSocket::receive(class sf::Packet &)" (__imp_?receive@TcpSocket@sf@@QEAA?AW4Status@Socket@2@AEAVPacket@2@@Z)
+Network.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::Packet::Packet(void)" (__imp_??0Packet@sf@@QEAA@XZ)，函数 "public: void __cdecl Network::disconnect(class Player *)" (?disconnect@Network@@QEAAXPEAVPlayer@@@Z) 中引用了该符号
+ServerNetwork.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::Packet::Packet(void)" (__imp_??0Packet@sf@@QEAA@XZ)
+Network.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: virtual __cdecl sf::Packet::~Packet(void)" (__imp_??1Packet@sf@@UEAA@XZ)，函数 "public: void __cdecl Network::disconnect(class Player *)" (?disconnect@Network@@QEAAXPEAVPlayer@@@Z) 中引用了该符号
+ServerNetwork.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: virtual __cdecl sf::Packet::~Packet(void)" (__imp_??1Packet@sf@@UEAA@XZ)
+Network.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: class sf::Packet & __cdecl sf::Packet::operator>>(bool &)" (__imp_??5Packet@sf@@QEAAAEAV01@AEA_N@Z)，函数 "public: int __cdecl Network::receive(class std::vector<class std::unique_ptr<class Player,struct std::default_delete<class Player> >,class std::allocator<class std::unique_ptr<class Player,struct std::default_delete<class Player> > > > &,class Player *)" (?receive@Network@@QEAAHAEAV?$vector@V?$unique_ptr@VPlayer@@U?$default_delete@VPlayer@@@std@@@std@@V?$allocator@V?$unique_ptr@VPlayer@@U?$default_delete@VPlayer@@@std@@@std@@@2@@std@@PEAVPlayer@@@Z) 中引用了该符号
+Network.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: class sf::Packet & __cdecl sf::Packet::operator>>(int &)" (__imp_??5Packet@sf@@QEAAAEAV01@AEAH@Z)，函数 "public: int __cdecl Network::receive(class std::vector<class std::unique_ptr<class Player,struct std::default_delete<class Player> >,class std::allocator<class std::unique_ptr<class Player,struct std::default_delete<class Player> > > > &,class Player *)" (?receive@Network@@QEAAHAEAV?$vector@V?$unique_ptr@VPlayer@@U?$default_delete@VPlayer@@@std@@@std@@V?$allocator@V?$unique_ptr@VPlayer@@U?$default_delete@VPlayer@@@std@@@std@@@2@@std@@PEAVPlayer@@@Z) 中引用了该符号
+ServerNetwork.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: class sf::Packet & __cdecl sf::Packet::operator>>(int &)" (__imp_??5Packet@sf@@QEAAAEAV01@AEAH@Z)
+Network.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: class sf::Packet & __cdecl sf::Packet::operator>>(float &)" (__imp_??5Packet@sf@@QEAAAEAV01@AEAM@Z)，函数 "public: int __cdecl Network::receive(class std::vector<class std::unique_ptr<class Player,struct std::default_delete<class Player> >,class std::allocator<class std::unique_ptr<class Player,struct std::default_delete<class Player> > > > &,class Player *)" (?receive@Network@@QEAAHAEAV?$vector@V?$unique_ptr@VPlayer@@U?$default_delete@VPlayer@@@std@@@std@@V?$allocator@V?$unique_ptr@VPlayer@@U?$default_delete@VPlayer@@@std@@@std@@@2@@std@@PEAVPlayer@@@Z) 中引用了该符号
+Network.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: class sf::Packet & __cdecl sf::Packet::operator>>(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)" (__imp_??5Packet@sf@@QEAAAEAV01@AEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)，函数 "public: int __cdecl Network::receive(class std::vector<class std::unique_ptr<class Player,struct std::default_delete<class Player> >,class std::allocator<class std::unique_ptr<class Player,struct std::default_delete<class Player> > > > &,class Player *)" (?receive@Network@@QEAAHAEAV?$vector@V?$unique_ptr@VPlayer@@U?$default_delete@VPlayer@@@std@@@std@@V?$allocator@V?$unique_ptr@VPlayer@@U?$default_delete@VPlayer@@@std@@@std@@@2@@std@@PEAVPlayer@@@Z) 中引用了该符号
+Network.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: class sf::Packet & __cdecl sf::Packet::operator<<(bool)" (__imp_??6Packet@sf@@QEAAAEAV01@_N@Z)，函数 "public: void __cdecl Network::sendBullets(class Player *)" (?sendBullets@Network@@QEAAXPEAVPlayer@@@Z) 中引用了该符号
+Network.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: class sf::Packet & __cdecl sf::Packet::operator<<(int)" (__imp_??6Packet@sf@@QEAAAEAV01@H@Z)，函数 "public: void __cdecl Network::disconnect(class Player *)" (?disconnect@Network@@QEAAXPEAVPlayer@@@Z) 中引用了该符号
+ServerNetwork.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: class sf::Packet & __cdecl sf::Packet::operator<<(int)" (__imp_??6Packet@sf@@QEAAAEAV01@H@Z)
+Network.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: class sf::Packet & __cdecl sf::Packet::operator<<(float)" (__imp_??6Packet@sf@@QEAAAEAV01@M@Z)，函数 "public: void __cdecl Network::sendDirection(class Player *)" (?sendDirection@Network@@QEAAXPEAVPlayer@@@Z) 中引用了该符号
+Network.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: class sf::Packet & __cdecl sf::Packet::operator<<(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (__imp_??6Packet@sf@@QEAAAEAV01@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)，函数 "public: void __cdecl Network::sendMyName(class Player *)" (?sendMyName@Network@@QEAAXPEAVPlayer@@@Z) 中引用了该符号
+ServerNetwork.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: class sf::Packet & __cdecl sf::Packet::operator<<(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (__imp_??6Packet@sf@@QEAAAEAV01@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+ServerNetwork.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: float __cdecl sf::Time::asSeconds(void)const " (__imp_?asSeconds@Time@sf@@QEBAMXZ)，函数 "public: void __cdecl ServerNetwork::run(void)" (?run@ServerNetwork@@QEAAXXZ) 中引用了该符号
+ServerNetwork.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: class sf::Time __cdecl sf::Clock::getElapsedTime(void)const " (__imp_?getElapsedTime@Clock@sf@@QEBA?AVTime@2@XZ)，函数 "public: void __cdecl ServerNetwork::run(void)" (?run@ServerNetwork@@QEAAXXZ) 中引用了该符号
+ServerNetwork.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::SocketSelector::SocketSelector(void)" (__imp_??0SocketSelector@sf@@QEAA@XZ)，函数 "public: __cdecl ServerNetwork::ServerNetwork(void)" (??0ServerNetwork@@QEAA@XZ) 中引用了该符号
+ServerNetwork.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl sf::SocketSelector::add(class sf::Socket &)" (__imp_?add@SocketSelector@sf@@QEAAXAEAVSocket@2@@Z)，函数 "public: __cdecl ServerNetwork::ServerNetwork(void)" (??0ServerNetwork@@QEAA@XZ) 中引用了该符号
+ServerNetwork.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl sf::SocketSelector::remove(class sf::Socket &)" (__imp_?remove@SocketSelector@sf@@QEAAXAEAVSocket@2@@Z)，函数 "public: void __cdecl ServerNetwork::run(void)" (?run@ServerNetwork@@QEAAXXZ) 中引用了该符号
+ServerNetwork.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: bool __cdecl sf::SocketSelector::wait(class sf::Time)" (__imp_?wait@SocketSelector@sf@@QEAA_NVTime@2@@Z)，函数 "public: void __cdecl ServerNetwork::run(void)" (?run@ServerNetwork@@QEAAXXZ) 中引用了该符号
+ServerNetwork.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: bool __cdecl sf::SocketSelector::isReady(class sf::Socket &)const " (__imp_?isReady@SocketSelector@sf@@QEBA_NAEAVSocket@2@@Z)，函数 "public: void __cdecl ServerNetwork::run(void)" (?run@ServerNetwork@@QEAAXXZ) 中引用了该符号
+ServerNetwork.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl sf::TcpListener::TcpListener(void)" (__imp_??0TcpListener@sf@@QEAA@XZ)，函数 "public: __cdecl ServerNetwork::ServerNetwork(void)" (??0ServerNetwork@@QEAA@XZ) 中引用了该符号
+ServerNetwork.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: enum sf::Socket::Status __cdecl sf::TcpListener::listen(unsigned short,class sf::IpAddress const &)" (__imp_?listen@TcpListener@sf@@QEAA?AW4Status@Socket@2@GAEBVIpAddress@2@@Z)，函数 "public: __cdecl ServerNetwork::ServerNetwork(void)" (??0ServerNetwork@@QEAA@XZ) 中引用了该符号
+ServerNetwork.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: enum sf::Socket::Status __cdecl sf::TcpListener::accept(class sf::TcpSocket &)" (__imp_?accept@TcpListener@sf@@QEAA?AW4Status@Socket@2@AEAVTcpSocket@2@@Z)，函数 "public: void __cdecl ServerNetwork::run(void)" (?run@ServerNetwork@@QEAAXXZ) 中引用了该符号
+ServerNetwork.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: static class sf::IpAddress const sf::IpAddress::Any" (__imp_?Any@IpAddress@sf@@2V12@B)，函数 "public: __cdecl ServerNetwork::ServerNetwork(void)" (??0ServerNetwork@@QEAA@XZ) 中引用了该符号
+C:\vs2019\SFML-2.5.1\lib\sfml-graphics-d.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+C:\vs2019\SFML-2.5.1\lib\sfml-window-d.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+C:\vs2019\SFML-2.5.1\lib\sfml-system-d.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+C:\vs2019\SFML-2.5.1\lib\sfml-audio-d.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+C:\vs2019\SFML-2.5.1\lib\sfml-network-d.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+C:\Users\65235\Desktop\ai\network\Source\x64\Debug\network_coursework.exe : fatal error LNK1120: 96 个无法解析的外部命令
